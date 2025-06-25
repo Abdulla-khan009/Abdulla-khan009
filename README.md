@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Black and Yellow Web Developer LinkedIn Banner.png" alt="Banner" />
+</p>
+
 # 👋 Hi, I'm Abdulla Khan
 
 ### 🚀 Full Stack Web Developer | React & Node.js Enthusiast
