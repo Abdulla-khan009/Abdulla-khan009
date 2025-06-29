@@ -38,6 +38,6 @@
 ### 📫 Contact Me
 
 - 📧 Email: [abdullas0006@gmail.com](mailto:abdullas0006@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-khan-877505351/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-khan-dev)
 - 🌐 [Facebook](https://www.facebook.com/abdulla.abdullakhan.55/)
-- 💻 Portfolio: Coming Soon!
+- 💻[Protfolio](https://abdullas-personal-protfolio.web.app/)
